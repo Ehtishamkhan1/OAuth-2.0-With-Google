@@ -43,7 +43,8 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "12864c88-7e39-4759-b036-47e9df7adf26"
+        //Give here your project id 
+        "projectId": "here you will get your project id"
       }
     },
     "owner": "shanistt"
